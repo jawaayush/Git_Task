@@ -6,6 +6,6 @@ int main(){
     int b;
     cin>>b;
     int multiply=a*b;
-    cout<<multiply<<endl;
+    cout<<"this is multiply: "<<multiply<<endl;
 }
 
